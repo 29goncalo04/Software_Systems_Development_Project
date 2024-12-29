@@ -1,0 +1,192 @@
+[
+    {
+        "email": "joao.silva@escola.com",
+        "password": "joao2024!@",
+        "nome": "João Silva",
+        "numero": 123456,
+        "media": 15.2,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 1,
+        "ucs": ["Álgebra Linear para Engenharia", "Cálculo para Engenharia", "Laboratórios de Informática I", "Programação Funcional", "Tópicos de Matemática Discreta", "Sustentabilidade Ambiental, Social e Económica"]
+    },
+    {
+        "email": "sofia.martins@universidade.com",
+        "password": "Sofia1234*",
+        "nome": "Sofia Martins",
+        "numero": 134567,
+        "media": 18.3,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 1,
+        "ucs": ["Álgebra Linear para Engenharia", "Cálculo para Engenharia", "Laboratórios de Informática I", "Programação Funcional", "Tópicos de Matemática Discreta", "Sustentabilidade Ambiental, Social e Económica"]
+    },
+    {
+        "email": "ana.costa@escola.com",
+        "password": "Ana#Costa21",
+        "nome": "Ana Costa",
+        "numero": 456789,
+        "media": 18.7,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 1,
+        "ucs": ["Álgebra Linear para Engenharia", "Cálculo para Engenharia", "Laboratórios de Informática I", "Programação Funcional", "Tópicos de Matemática Discreta", "Colaboração para um Desenvolvimento Sustentável na Era da Digitalização"]
+    },
+    {
+        "email": "lucas.martins@escola.com",
+        "password": "Luc@2345",
+        "nome": "Lucas Martins",
+        "numero": 678901,
+        "media": 17.1,
+        "estatuto": "especial",
+        "situacao": "não repetente",
+        "semestre": 1,
+        "ucs": ["Álgebra Linear para Engenharia", "Cálculo para Engenharia", "Laboratórios de Informática I", "Programação Funcional", "Tópicos de Matemática Discreta", "Sustentabilidade Ambiental, Social e Económica"]
+    },
+    {
+        "email": "luisa.almeida@universidade.com",
+        "password": "Lari@2024",
+        "nome": "Luísa Almeida",
+        "numero": 789012,
+        "media": 19.0,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 1,
+        "ucs": ["Álgebra Linear para Engenharia", "Cálculo para Engenharia", "Laboratórios de Informática I", "Programação Funcional", "Tópicos de Matemática Discreta", "Colaboração para um Desenvolvimento Sustentável na Era da Digitalização"]
+    },
+
+
+
+    
+
+
+
+
+    
+    {
+        "email": "maria.oliveira@universidade.com",
+        "password": "M@ria2023",
+        "nome": "Maria Oliveira",
+        "numero": 234567,
+        "media": 16.8,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 2,
+        "ucs": ["Análise Matemática para Engenharia", "Elementos de Probabilidades e Teoria de Números", "Laboratórios de Informática II", "Lógica", "Programação Imperativa", "Sistemas de Computação"]
+    },
+
+
+
+
+
+
+
+    {
+        "email": "miguel.rocha@escola.com",
+        "password": "Miguel567@",
+        "nome": "Miguel Rocha",
+        "numero": 245678,
+        "media": 12.8,
+        "estatuto": "normal",
+        "situacao": "repetente",
+        "semestre": 3,
+        "ucs": ["Algoritmos e Complexidade", "Arquitetura de Computadores", "Estatística Aplicada", "Física Moderna", "Fundamentos de Comunicação de Dados", "Laboratórios de Informática I","Laboratórios de Informática III"]
+    },
+    {
+        "email": "carlos.pereira@escola.com",
+        "password": "Carlos123!",
+        "nome": "Carlos Pereira",
+        "numero": 345678,
+        "media": 11.4,
+        "estatuto": "especial",
+        "situacao": "repetente",
+        "semestre": 3,
+        "ucs": ["Algoritmos e Complexidade", "Arquitetura de Computadores", "Programação Funcional", "Estatística Aplicada", "Física Moderna", "Fundamentos de Comunicação de Dados", "Laboratórios de Informática III"]
+    },
+    {
+        "email": "pedro.santos@universidade.com",
+        "password": "Pedro@1234",
+        "nome": "Pedro Santos",
+        "numero": 567890,
+        "media": 13.5,
+        "estatuto": "normal",
+        "situacao": "repetente",
+        "semestre": 3,
+        "ucs": ["Algoritmos e Complexidade", "Arquitetura de Computadores", "Estatística Aplicada", "Física Moderna", "Cálculo para Engenharia", "Fundamentos de Comunicação de Dados", "Laboratórios de Informática III"]
+    },
+
+
+
+    
+
+    
+    {
+        "email": "ricardo.fernandes@escola.com",
+        "password": "Ricardo123$",
+        "nome": "Ricardo Fernandes",
+        "numero": 123457,
+        "media": 13.2,
+        "estatuto": "especial",
+        "situacao": "repetente",
+        "semestre": 4,
+        "ucs": ["Bases de Dados", "Investigação Operacional", "Programação Imperativa", "Métodos Numéricos e Otimização Não Linear", "Programação Orientada aos Objetos", "Redes de Computadores", "Sistemas Operativos"]
+    },
+    {
+        "email": "tiago.moreira@escola.com",
+        "password": "Tiago!2024",
+        "nome": "Tiago Moreira",
+        "numero": 467890,
+        "media": 13.9,
+        "estatuto": "especial",
+        "situacao": "repetente",
+        "semestre": 4,
+        "ucs": ["Bases de Dados", "Análise Matemática para Engenharia", "Investigação Operacional", "Métodos Numéricos e Otimização Não Linear", "Programação Orientada aos Objetos", "Redes de Computadores", "Sistemas Operativos"]
+    },
+
+
+
+
+
+
+
+    {
+        "email": "gustavo.rodrigues@escola.com",
+        "password": "Gustavo456!",
+        "nome": "Gustavo Rodrigues",
+        "numero": 890123,
+        "media": 14.0,
+        "estatuto": "normal",
+        "situacao": "repetente",
+        "semestre": 5,
+        "ucs": ["Inteligência Artificial", "Laboratórios de Informática IV", "Cálculo de Programas", "Fundamentos de Comunicação de Dados", "Comunicações por Computador", "Desenvolvimento de Sistemas de Software", "Sistemas Distribuídos"]
+    },
+
+
+
+
+
+
+    
+    {
+        "email": "diana.sousa@universidade.com",
+        "password": "Diana$2023",
+        "nome": "Diana Sousa",
+        "numero": 356789,
+        "media": 19.1,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 6,
+        "ucs": ["Processamento de Linguagens", "Mecânica Quântica", "Interface Pessoa-Máquina", "Computação Gráfica", "Aprendizagem e Decisão Inteligentes","Segurança de Sistemas Informáticos"]
+    },
+    {
+        "email": "beatriz.lopes@universidade.com",
+        "password": "Beatriz2024!",
+        "nome": "Beatriz Lopes",
+        "numero": 901234,
+        "media": 14.5,
+        "estatuto": "normal",
+        "situacao": "não repetente",
+        "semestre": 6,
+        "ucs": ["Processamento de Linguagens", "Mecânica Quântica", "Interface Pessoa-Máquina", "Computação Gráfica", "Aprendizagem e Decisão Inteligentes","Segurança de Sistemas Informáticos"]
+    }
+]

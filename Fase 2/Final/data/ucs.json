@@ -1,0 +1,271 @@
+[
+    {
+        "nome": "Álgebra Linear para Engenharia",
+        "preferencias": ["TPR", "GMT"],
+        "semestre": 1,
+        "vagas": 35
+    },
+    {
+        "nome": "Cálculo para Engenharia",
+        "preferencias": ["TPM"],
+        "semestre": 1,
+        "vagas": 35
+    },
+    {
+        "nome": "Laboratórios de Informática I",
+        "preferencias": ["TMT"],
+        "semestre": 1,
+        "vagas": 25
+    },
+    {
+        "nome": "Programação Funcional",
+        "preferencias": ["TPM"],
+        "semestre": 1,
+        "vagas": 35
+    },
+    {
+        "nome": "Tópicos de Matemática Discreta",
+        "preferencias": ["TPR"],
+        "semestre": 1,
+        "vagas": 35
+    },
+    {
+        "nome": "Colaboração para um Desenvolvimento Sustentável na Era da Digitalização",
+        "preferencias": ["TPR"],
+        "semestre": 1,
+        "vagas": 35
+    },
+    {
+        "nome": "Sustentabilidade Ambiental, Social e Económica",
+        "preferencias": ["TPR"],
+        "semestre": 1,
+        "vagas": 35
+    },
+
+
+
+
+
+
+
+    {
+        "nome": "Análise Matemática para Engenharia",
+        "preferencias": ["TPM"],
+        "semestre": 2,
+        "vagas": 35
+    },
+    {
+        "nome": "Elementos de Probabilidades e Teoria de Números",
+        "preferencias": ["TMT"],
+        "semestre": 2,
+        "vagas": 27
+    },
+    {
+        "nome": "Laboratórios de Informática II",
+        "preferencias": ["TMT"],
+        "semestre": 2,
+        "vagas": 22
+    },
+    {
+        "nome": "Lógica",
+        "preferencias": ["TPR"],
+        "semestre": 2,
+        "vagas": 35
+    },
+    {
+        "nome": "Programação Imperativa",
+        "preferencias": ["TPM"],
+        "semestre": 2,
+        "vagas": 35
+    },
+    {
+        "nome": "Sistemas de Computação",
+        "preferencias": ["TMT"],
+        "semestre": 2,
+        "vagas": 21
+    },
+
+
+
+
+
+
+
+    {
+        "nome": "Algoritmos e Complexidade",
+        "preferencias": ["TPM"],
+        "semestre": 3,
+        "vagas": 35
+    },
+    {
+        "nome": "Arquitetura de Computadores",
+        "preferencias": ["TMT"],
+        "semestre": 3,
+        "vagas": 23
+    },
+    {
+        "nome": "Estatística Aplicada",
+        "preferencias": ["TPR"],
+        "semestre": 3,
+        "vagas": 35
+    },
+    {
+        "nome": "Física Moderna",
+        "preferencias": ["TPR"],
+        "semestre": 3,
+        "vagas": 35
+    },
+    {
+        "nome": "Fundamentos de Comunicação de Dados",
+        "preferencias": ["TMT"],
+        "semestre": 3,
+        "vagas": 22
+    },
+    {
+        "nome": "Laboratórios de Informática III",
+        "preferencias": ["TMT"],
+        "semestre": 3,
+        "vagas": 21
+    },
+
+
+
+
+
+
+
+    {
+        "nome": "Bases de Dados",
+        "preferencias": ["TMT", "GMT"],
+        "semestre": 4,
+        "vagas": 31
+    },
+    {
+        "nome": "Investigação Operacional",
+        "preferencias": ["TPM"],
+        "semestre": 4,
+        "vagas": 35
+    },
+    {
+        "nome": "Métodos Numéricos e Otimização Não Linear",
+        "preferencias": ["TPR"],
+        "semestre": 4,
+        "vagas": 35
+    },
+    {
+        "nome": "Programação Orientada aos Objetos",
+        "preferencias": ["TPM"],
+        "semestre": 4,
+        "vagas": 35
+    },
+    {
+        "nome": "Redes de Computadores",
+        "preferencias": ["TMT"],
+        "semestre": 4,
+        "vagas": 28
+    },
+    {
+        "nome": "Sistemas Operativos",
+        "preferencias": ["TMT"],
+        "semestre": 4,
+        "vagas": 24
+    },
+
+
+
+
+
+
+
+    {
+        "nome": "Cálculo de Programas",
+        "preferencias": ["TPR"],
+        "semestre": 5,
+        "vagas": 35
+    },
+    {
+        "nome": "Comunicações por Computador",
+        "preferencias": ["TMT"],
+        "semestre": 5,
+        "vagas": 24
+    },
+    {
+        "nome": "Desenvolvimento de Sistemas de Software",
+        "preferencias": ["TPM"],
+        "semestre": 5,
+        "vagas": 35
+    },
+    {
+        "nome": "Inteligência Artificial",
+        "preferencias": ["TPR", "TPM"],
+        "semestre": 5,
+        "vagas": 35
+    },
+    {
+        "nome": "Laboratórios de Informática IV",
+        "preferencias": ["TMT"],
+        "semestre": 5,
+        "vagas": 22
+    },
+    {
+        "nome": "Sistemas Distribuídos",
+        "preferencias": ["TPM"],
+        "semestre": 5,
+        "vagas": 35
+    },
+
+
+
+
+
+
+    
+    {
+        "nome": "Aprendizagem e Decisão Inteligentes",
+        "preferencias": ["TPR"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Computação Gráfica",
+        "preferencias": ["TPM"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Interface Pessoa-Máquina",
+        "preferencias": ["TPR"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Processamento de Linguagens",
+        "preferencias": ["TPM"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Segurança de Sistemas Informáticos",
+        "preferencias": ["TPM", "TMT"],
+        "semestre": 6,
+        "vagas": 22
+    },
+    {
+        "nome": "Engenharia Web",
+        "preferencias": ["TPR"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Análise de Projetos",
+        "preferencias": ["TPM"],
+        "semestre": 6,
+        "vagas": 35
+    },
+    {
+        "nome": "Mecânica Quântica",
+        "preferencias": ["TPR"],
+        "semestre": 6,
+        "vagas": 35
+    }
+]
