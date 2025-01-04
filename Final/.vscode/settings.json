@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "libs\\javax.json-api-1.1.4.jar",
+        "libs\\javax.json-1.1.4.jar",
+        "c:\\Users\\gonca\\Desktop\\DSS2425-Grupo-04\\Final\\libs\\mysql-connector-j-9.1.0.jar"
+    ]
+}

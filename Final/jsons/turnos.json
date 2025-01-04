@@ -1,0 +1,2597 @@
+[
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP3-1.04"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP3-1.04"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP3-1.05"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.21"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.09"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.09"
+    },
+
+
+
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Fisica Moderna",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.09"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-1.05"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.22"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.09"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-1.27"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP7-0.11"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.09"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-1.27"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP7-0.11"
+    },
+
+
+
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.03"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.03"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.11"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.12"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.27"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.14"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.03"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.14"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.03"
+    },
+
+
+
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.22"
+    },
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-3.03"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.22"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-3.03"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-0.01"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-2.11"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-3.03"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL9",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.05"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-1.13"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "MONDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.08"
+    },
+
+
+
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP2-2.07"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-1.05"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "MONDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP2-2.07"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "MONDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-1.05"
+    },
+
+
+
+
+
+
+
+    {
+        "uc": "Redes de Computadores",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.22"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Engenharia Web",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.22"
+    },
+    {
+        "uc": "Analise de Projetos",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.23"
+    },
+    {
+        "uc": "Mecanica Quantica",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.24"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+
+
+
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.25"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP7-0.05"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.01"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.18"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.25"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP7-0.05"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.01"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.18"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-0.15"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-1.03"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.22"
+    },
+    {
+        "uc": "Inteligencia Artificial",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-1.04"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-1.21"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.13"
+    },
+    {
+        "uc": "Processamento de Linguagens",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.03"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-1.21"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.13"
+    },
+
+
+
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.07"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.09"
+    },
+    {
+        "uc": "Laboratorios de Informatica I",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.05"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.07"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.09"
+    },
+    {
+        "uc": "Laboratorios de Informatica II",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.05"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.13"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.11"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL9",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.04"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.19"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.23"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-1.05"
+    },
+    {
+        "uc": "Laboratorios de Informatica IV",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.11"
+    },
+    {
+        "uc": "Seguranca de Sistemas Informaticos",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.11"
+    },
+
+
+
+    {
+        "uc": "Sistemas de Computacao",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.20"
+    },
+    {
+        "uc": "Sistemas de Computacao",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Fisica Moderna",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL9",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL11",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-0.09"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-1.09"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL10",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.19"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.22"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.08"
+    },
+
+
+
+    {
+        "uc": "Colaboracao para um Desenvolvimento Sustentavel na Era da Digitalizacao",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Sustentabilidade Ambiental Social e Economica",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Sistemas de Computacao",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Sistemas de Computacao",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-2.19"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP7-0.09"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP7-1.09"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL10",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-1.19"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-2.22"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-1.22"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "TUESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-1.22"
+    },
+
+
+
+
+
+
+
+    {
+        "uc": "Programacao Funcional",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Logica",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-1.27"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP3-1.03"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.27"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.27"
+    },
+
+
+
+    {
+        "uc": "Programacao Funcional",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.05"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.01"
+    },
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Logica",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.05"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.01"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Fisica Moderna",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.09"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.27"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.12"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.07"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.10"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.12"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.07"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.10"
+    },
+
+
+
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.15"
+    },
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.12"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.15"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.12"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.16"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-1.05"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.27"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-0.20"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Laboratorios de Informatica IV",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-2.02"
+    },
+    {
+        "uc": "Seguranca de Sistemas Informaticos",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-2.02"
+    },
+
+
+
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.15"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.15"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Estatistica Aplicada",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.06"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.08"
+    },
+
+
+
+    {
+        "uc": "Laboratorios de Informatica IV",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Seguranca de Sistemas Informaticos",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "WEDNESDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-0.08"
+    },
+
+
+
+
+
+
+
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.15"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.15"
+    },
+    {
+        "uc": "Fisica Moderna",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.20"
+    },
+    {
+        "uc": "Fisica Moderna",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.21"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-0.17"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP3-2.01"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.11"
+    },
+
+
+
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.08"
+    },{
+        "uc": "Logica",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.08"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-2.01"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.11"
+    },
+
+
+
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP7",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.20"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.01"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP7",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.20"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.01"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-0.09"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP7-1.09"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-0.04"
+    },
+
+
+
+    {
+        "uc": "Topicos de Matematica Discreta",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-1.02"
+    },
+    {
+        "uc": "Programacao Imperativa",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-1.02"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL12",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL10",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.17"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-1.10"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-0.03"
+    },
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.27"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.22"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.11"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.20"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.20"
+    },
+
+
+
+    {
+        "uc": "Fisica Moderna",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "THURSDAY",
+        "horaInicial": "18:00",
+        "horaFinal": "20:00",
+        "sala": "CP1-0.08"
+    },
+
+
+
+
+
+
+
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-2.01"
+    },
+    {
+        "uc": "Algebra Linear para Engenharia",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.17"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP4",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.18"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP3",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-2.01"
+    },
+    {
+        "uc": "Analise Matematica para Engenharia",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP1-2.22"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Calculo de Programas",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.01"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.07"
+    },
+    {
+        "uc": "Aprendizagem e Decisao Inteligentes",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "09:00",
+        "horaFinal": "11:00",
+        "sala": "CP2-0.01"
+    },
+
+
+
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.09"
+    },
+    {
+        "uc": "Programacao Funcional",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.05"
+    },
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP6",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.09"
+    },
+    {
+        "uc": "Logica",
+        "nome": "TP2",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.05"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "TP1",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Metodos Numericos e Otimizacao nao Linear",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.10"
+    },
+    {
+        "uc": "Investigacao Operacional",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-1.12"
+    },
+    {
+        "uc": "Sistemas Distribuidos",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Comunicacoes por Computador",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.01"
+    },
+    {
+        "uc": "Computacao Grafica",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "11:00",
+        "horaFinal": "13:00",
+        "sala": "CP2-2.01"
+    },
+
+
+
+    {
+        "uc": "Calculo para Engenharia",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Elementos de Probabilidades e Teoria de Numeros",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-0.07"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "T2",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.05"
+    },
+    {
+        "uc": "Algoritmos e Complexidade",
+        "nome": "T1",
+        "tipo": "T",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-0.04"
+    },
+    {
+        "uc": "Redes de Computadores",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-1.09"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.11"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP3-2.05"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-1.21"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL5",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-0.17"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP1-2.14"
+    },
+    {
+        "uc": "Desenvolvimento de Sistemas de Software",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.06"
+    },
+    {
+        "uc": "Interface Pessoa-Maquina",
+        "nome": "PL2",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "14:00",
+        "horaFinal": "16:00",
+        "sala": "CP2-2.06"
+    },
+
+
+
+    {
+        "uc": "Fundamentos de Comunicacao de Dados",
+        "nome": "TP5",
+        "tipo": "TP",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP3-1.05"
+    },
+    {
+        "uc": "Arquitetura de Computadores",
+        "nome": "PL7",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP7-0.08"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.08"
+    },
+    {
+        "uc": "Laboratorios de Informatica III",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.43"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL9",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.21"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL6",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-0.17"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL1",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-1.21"
+    },
+    {
+        "uc": "Programacao Orientada aos Objetos",
+        "nome": "PL4",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-0.17"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL3",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-0.16"
+    },
+    {
+        "uc": "Sistemas Operativos",
+        "nome": "PL8",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP2-2.11"
+    },
+    {
+        "uc": "Bases de Dados",
+        "nome": "PL9",
+        "tipo": "PL",
+        "dia_semana": "FRIDAY",
+        "horaInicial": "16:00",
+        "horaFinal": "18:00",
+        "sala": "CP1-2.14"
+    }
+]
